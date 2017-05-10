@@ -167,6 +167,7 @@ Resources for Mt Pleasant School Code Club
 * mBot robots
 
 ## Advanced
+* Code Monster (Crunchzilla)
 * Get Coding
 * Javascript for Kids
 * Code Combat(online)
